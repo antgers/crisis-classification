@@ -1,8 +1,0 @@
-
- Station ID = 49 and Datastream ID = 157
-{"value": [{"@iot.id": 49, "description": "Weather station Vicenza S.Agostino", "name": "Vicenza S.Agostino", "Datastreams": [{"phenomenonTime": "2016-01-01T00:00:00.000Z/2018-02-26T23:00:00.000Z", "@iot.id": 157, "Observations": [{"phenomenonTime": "2018-02-26T23:00:00.000Z", "@iot.id": 24015651, "result": 0}], "name": "Precipitation Vicenza S.Agostino"}]}]}
- ------------------------------ 
-
- Station ID = 374 and Datastream ID = 485
-{"value": [{"@iot.id": 374, "description": "Weather station Retrone a Vicenza S.Agostino CAE", "name": "Retrone a Vicenza S.Agostino CAE", "Datastreams": [{"phenomenonTime": "2016-01-01T00:00:00.000Z/2018-02-27T08:00:00.000Z", "@iot.id": 485, "Observations": [{"phenomenonTime": "2018-02-27T08:00:00.000Z", "@iot.id": 24017910, "result": 0}], "name": "Precipitation Retrone a Vicenza S.Agostino CAE"}]}]}
- ------------------------------ 
