@@ -1,0 +1,64 @@
+{
+    "body": {
+        "measurements": [
+            {
+                "note": "Water Level OK - Moderate Crisis Level",
+                "dataSeriesName": "Timonchio a Ponte Marchese CAE",
+                "measurementID": 165,
+                "color": "#00FF00",
+                "dataSeriesID": 45,
+                "yValue": -0.17,
+                "measurementTimeStamp": "2018-02-28T13:00:00Z",
+                "xValue": ""
+            },
+            {
+                "note": "Water Level OK - Moderate Crisis Level",
+                "dataSeriesName": "Bacchiglione a Vicenza CAE",
+                "measurementID": 167,
+                "color": "#00FF00",
+                "dataSeriesID": 47,
+                "yValue": 0.56,
+                "measurementTimeStamp": "2018-02-28T13:00:00Z",
+                "xValue": ""
+            },
+            {
+                "note": "Water Level OK - Moderate Crisis Level",
+                "dataSeriesName": "Retrone a Vicenza S.Agostino CAE",
+                "measurementID": 492,
+                "color": "#00FF00",
+                "dataSeriesID": 374,
+                "yValue": -0.31,
+                "measurementTimeStamp": "2018-02-28T13:00:00Z",
+                "xValue": ""
+            }
+        ],
+        "dataStreamID": "1",
+        "dataStreamGenerator": "CRCL",
+        "position": {
+            "latitude": "45.54547",
+            "longitude": "11.53542"
+        },
+        "dataStreamDescription": "Real measurements of Water Level at Weather Stations",
+        "dataStreamCategory": "Met",
+        "dataStreamName": "Water Level",
+        "language": "it-IT",
+        "dataStreamSubCategory": "Flood"
+    },
+    "header": {
+        "note": "",
+        "code": 20190617001,
+        "specificSender": "",
+        "sender": "CRCL",
+        "msgIdentifier": "20180228T175959MS139976",
+        "sentUTC": "2018-02-28T17:59:59Z",
+        "district": "Vicenza",
+        "references": "",
+        "scope": "Public",
+        "actionType": "Update",
+        "status": "Actual",
+        "topicMinorVersion": "1",
+        "topicMajorVersion": "0",
+        "recipients": "",
+        "topicName": "TOP104_METRIC_REPORT"
+    }
+}

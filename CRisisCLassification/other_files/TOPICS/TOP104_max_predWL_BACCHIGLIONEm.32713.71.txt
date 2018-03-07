@@ -1,0 +1,44 @@
+{
+    "header": {
+        "recipients": "",
+        "topicMinorVersion": "1",
+        "scope": "Public",
+        "topicMajorVersion": "0",
+        "sentUTC": "2018/02/07 12:52:00",
+        "note": "Threshold_1=33.866, Threshold_2=34.366, Threshold_3=35.166",
+        "sender": "CRCL",
+        "actionType": "Update",
+        "references": "",
+        "code": 20190617001,
+        "district": "BACCHIGLIONE  m.   32713.71",
+        "specificSender": "",
+        "topicName": "TOP104_METRIC_REPORT",
+        "status": "Actual",
+        "msgIdentifier": "5433dfde68"
+    },
+    "body": {
+        "position": {
+            "longitude": 45.55275676,
+            "latitude": 11.537595154
+        },
+        "language": "it-IT",
+        "dataStreamID": 700,
+        "dataStreamDescription": "forecast and 1103",
+        "measurements": [
+            {
+                "measurementID": 23791256,
+                "measurementTimeStamp": "2018-01-26T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T08:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   32713.71",
+                "yValue": 30.468,
+                "color": "#00FF00"
+            }
+        ],
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamName": "Water level forecast river 6 section 483",
+        "dataStreamCategory": "Met"
+    }
+}

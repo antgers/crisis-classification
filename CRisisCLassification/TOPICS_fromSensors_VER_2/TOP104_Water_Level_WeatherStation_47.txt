@@ -1,0 +1,54 @@
+{
+    "header": {
+        "code": 20190617001,
+        "msgIdentifier": "20180227T111950MS747063",
+        "specificSender": "",
+        "topicName": "TOP104_METRIC_REPORT",
+        "sender": "CRCL",
+        "topicMinorVersion": "1",
+        "status": "Actual",
+        "district": "Vicenza",
+        "actionType": "Update",
+        "topicMajorVersion": "0",
+        "scope": "Public",
+        "recipients": "",
+        "sentUTC": "2018-02-27T11:19:50Z",
+        "note": "",
+        "references": ""
+    },
+    "body": {
+        "language": "it-IT",
+        "dataStreamCategory": "Met",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamDescription": "Real measurementsWater Level Bacchiglione a Vicenza CAE",
+        "measurements": [
+            {
+                "dataSeriesName": "Real measurement of Water Level Bacchiglione a Vicenza CAE",
+                "measurementTimeStamp": "2018-02-27T08:00:00.000Z",
+                "xValue": "",
+                "measurementID": 24017903,
+                "dataSeriesID": "1",
+                "yValue": -0.3,
+                "color": "#00FF00",
+                "note": "Water Level OK - Moderate Crisis Level"
+            },
+            {
+                "dataSeriesName": "Scale",
+                "measurementTimeStamp": "2018-02-27T08:00:00.000Z",
+                "xValue": "",
+                "measurementID": 24017903,
+                "dataSeriesID": "2",
+                "yValue": 0,
+                "color": "",
+                "note": "Trivial"
+            }
+        ],
+        "dataStreamName": "Water Level Bacchiglione a Vicenza CAE",
+        "dataStreamID": 167,
+        "position": {
+            "latitude": 45.54184703,
+            "longitude": 11.54698925
+        },
+        "dataStreamGenerator": "CRCL"
+    }
+}

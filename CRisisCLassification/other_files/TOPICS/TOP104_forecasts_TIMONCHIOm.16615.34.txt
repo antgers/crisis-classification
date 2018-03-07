@@ -1,0 +1,564 @@
+{
+    "header": {
+        "recipients": "",
+        "topicMinorVersion": "1",
+        "scope": "Public",
+        "topicMajorVersion": "0",
+        "sentUTC": "2018/02/07 12:50:57",
+        "note": "Threshold_1=67.904, Threshold_2=68.404, Threshold_3=69.204",
+        "sender": "CRCL",
+        "actionType": "Update",
+        "references": "",
+        "code": 20190617001,
+        "district": "TIMONCHIO m.  16615.34",
+        "specificSender": "",
+        "topicName": "TOP104_METRIC_REPORT",
+        "status": "Actual",
+        "msgIdentifier": "5433dfde68"
+    },
+    "body": {
+        "position": {
+            "longitude": 45.640873566,
+            "latitude": 11.493052293
+        },
+        "language": "it-IT",
+        "dataStreamID": 655,
+        "dataStreamDescription": "forecast and 1103",
+        "measurements": [
+            {
+                "measurementID": 23771119,
+                "measurementTimeStamp": "2018-01-26T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T08:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.964,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771120,
+                "measurementTimeStamp": "2018-01-26T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T09:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.963,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771121,
+                "measurementTimeStamp": "2018-01-26T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T10:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.963,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771122,
+                "measurementTimeStamp": "2018-01-26T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T11:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.962,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771123,
+                "measurementTimeStamp": "2018-01-26T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T12:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.962,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771124,
+                "measurementTimeStamp": "2018-01-26T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T13:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.961,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771125,
+                "measurementTimeStamp": "2018-01-26T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T14:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.961,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771126,
+                "measurementTimeStamp": "2018-01-26T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T15:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.961,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771127,
+                "measurementTimeStamp": "2018-01-26T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T16:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.96,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771128,
+                "measurementTimeStamp": "2018-01-26T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T17:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.96,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771129,
+                "measurementTimeStamp": "2018-01-26T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T18:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.96,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771130,
+                "measurementTimeStamp": "2018-01-26T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T19:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.959,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771131,
+                "measurementTimeStamp": "2018-01-26T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T20:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.959,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771132,
+                "measurementTimeStamp": "2018-01-26T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T21:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.959,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771133,
+                "measurementTimeStamp": "2018-01-26T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T22:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.958,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771134,
+                "measurementTimeStamp": "2018-01-26T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T23:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.958,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771135,
+                "measurementTimeStamp": "2018-01-27T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T00:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.958,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771136,
+                "measurementTimeStamp": "2018-01-27T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T01:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.957,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771137,
+                "measurementTimeStamp": "2018-01-27T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T02:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.957,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771138,
+                "measurementTimeStamp": "2018-01-27T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T03:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.956,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771139,
+                "measurementTimeStamp": "2018-01-27T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T04:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.956,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771140,
+                "measurementTimeStamp": "2018-01-27T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T05:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.956,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771141,
+                "measurementTimeStamp": "2018-01-27T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T06:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.955,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771142,
+                "measurementTimeStamp": "2018-01-27T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T07:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.955,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771143,
+                "measurementTimeStamp": "2018-01-27T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T08:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.955,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771144,
+                "measurementTimeStamp": "2018-01-27T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T09:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.954,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771145,
+                "measurementTimeStamp": "2018-01-27T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T10:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.954,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771146,
+                "measurementTimeStamp": "2018-01-27T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T11:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.953,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771147,
+                "measurementTimeStamp": "2018-01-27T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T12:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.953,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771148,
+                "measurementTimeStamp": "2018-01-27T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T13:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.953,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771149,
+                "measurementTimeStamp": "2018-01-27T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T14:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.952,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771150,
+                "measurementTimeStamp": "2018-01-27T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T15:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.952,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771151,
+                "measurementTimeStamp": "2018-01-27T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T16:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.952,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771152,
+                "measurementTimeStamp": "2018-01-27T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T17:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.952,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771153,
+                "measurementTimeStamp": "2018-01-27T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T18:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.952,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771154,
+                "measurementTimeStamp": "2018-01-27T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T19:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.951,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771155,
+                "measurementTimeStamp": "2018-01-27T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T20:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.951,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771156,
+                "measurementTimeStamp": "2018-01-27T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T21:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.951,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771157,
+                "measurementTimeStamp": "2018-01-27T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T22:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.95,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771158,
+                "measurementTimeStamp": "2018-01-27T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T23:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.95,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771159,
+                "measurementTimeStamp": "2018-01-28T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T00:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.95,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771160,
+                "measurementTimeStamp": "2018-01-28T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T01:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.949,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771161,
+                "measurementTimeStamp": "2018-01-28T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T02:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.949,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771162,
+                "measurementTimeStamp": "2018-01-28T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T03:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.949,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771163,
+                "measurementTimeStamp": "2018-01-28T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T04:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.948,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771164,
+                "measurementTimeStamp": "2018-01-28T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T05:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.948,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771165,
+                "measurementTimeStamp": "2018-01-28T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T06:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.947,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771166,
+                "measurementTimeStamp": "2018-01-28T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T07:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.947,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771167,
+                "measurementTimeStamp": "2018-01-28T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T08:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.947,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771168,
+                "measurementTimeStamp": "2018-01-28T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T09:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.946,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771169,
+                "measurementTimeStamp": "2018-01-28T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T10:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.946,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771170,
+                "measurementTimeStamp": "2018-01-28T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T11:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.946,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23771171,
+                "measurementTimeStamp": "2018-01-28T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T12:00:00.000Z",
+                "dataSeriesName": "TIMONCHIO m.  16615.34",
+                "yValue": 63.945,
+                "color": "#00FF00"
+            }
+        ],
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamName": "Water level forecast river 6 section 411",
+        "dataStreamCategory": "Met"
+    }
+}

@@ -1,0 +1,564 @@
+{
+    "header": {
+        "recipients": "",
+        "topicMinorVersion": "1",
+        "scope": "Public",
+        "topicMajorVersion": "0",
+        "sentUTC": "2018/02/07 12:54:36",
+        "note": "Threshold_1=32.88, Threshold_2=33.38, Threshold_3=34.18",
+        "sender": "CRCL",
+        "actionType": "Update",
+        "references": "",
+        "code": 20190617001,
+        "district": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+        "specificSender": "",
+        "topicName": "TOP104_METRIC_REPORT",
+        "status": "Actual",
+        "msgIdentifier": "5433dfde68"
+    },
+    "body": {
+        "position": {
+            "longitude": 45.550841966,
+            "latitude": 11.544569169
+        },
+        "language": "it-IT",
+        "dataStreamID": 799,
+        "dataStreamDescription": "forecast and 1103",
+        "measurements": [
+            {
+                "measurementID": 23789631,
+                "measurementTimeStamp": "2018-01-26T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T08:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.22,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789632,
+                "measurementTimeStamp": "2018-01-26T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T09:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.22,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789633,
+                "measurementTimeStamp": "2018-01-26T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T10:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.22,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789634,
+                "measurementTimeStamp": "2018-01-26T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T11:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.22,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789635,
+                "measurementTimeStamp": "2018-01-26T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T12:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.22,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789636,
+                "measurementTimeStamp": "2018-01-26T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T13:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.219,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789637,
+                "measurementTimeStamp": "2018-01-26T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T14:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.219,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789638,
+                "measurementTimeStamp": "2018-01-26T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T15:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.219,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789639,
+                "measurementTimeStamp": "2018-01-26T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T16:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.219,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789640,
+                "measurementTimeStamp": "2018-01-26T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T17:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.219,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789641,
+                "measurementTimeStamp": "2018-01-26T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T18:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.218,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789642,
+                "measurementTimeStamp": "2018-01-26T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T19:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.218,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789643,
+                "measurementTimeStamp": "2018-01-26T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T20:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.218,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789644,
+                "measurementTimeStamp": "2018-01-26T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T21:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.218,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789645,
+                "measurementTimeStamp": "2018-01-26T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T22:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.218,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789646,
+                "measurementTimeStamp": "2018-01-26T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T23:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.218,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789647,
+                "measurementTimeStamp": "2018-01-27T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T00:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.218,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789648,
+                "measurementTimeStamp": "2018-01-27T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T01:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.217,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789649,
+                "measurementTimeStamp": "2018-01-27T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T02:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.217,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789650,
+                "measurementTimeStamp": "2018-01-27T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T03:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.217,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789651,
+                "measurementTimeStamp": "2018-01-27T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T04:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.217,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789652,
+                "measurementTimeStamp": "2018-01-27T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T05:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.217,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789653,
+                "measurementTimeStamp": "2018-01-27T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T06:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.217,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789654,
+                "measurementTimeStamp": "2018-01-27T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T07:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.217,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789655,
+                "measurementTimeStamp": "2018-01-27T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T08:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.216,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789656,
+                "measurementTimeStamp": "2018-01-27T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T09:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.216,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789657,
+                "measurementTimeStamp": "2018-01-27T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T10:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.216,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789658,
+                "measurementTimeStamp": "2018-01-27T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T11:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.216,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789659,
+                "measurementTimeStamp": "2018-01-27T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T12:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.216,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789660,
+                "measurementTimeStamp": "2018-01-27T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T13:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.216,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789661,
+                "measurementTimeStamp": "2018-01-27T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T14:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.216,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789662,
+                "measurementTimeStamp": "2018-01-27T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T15:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.215,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789663,
+                "measurementTimeStamp": "2018-01-27T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T16:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.215,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789664,
+                "measurementTimeStamp": "2018-01-27T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T17:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.215,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789665,
+                "measurementTimeStamp": "2018-01-27T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T18:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.215,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789666,
+                "measurementTimeStamp": "2018-01-27T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T19:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.215,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789667,
+                "measurementTimeStamp": "2018-01-27T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T20:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.215,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789668,
+                "measurementTimeStamp": "2018-01-27T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T21:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.215,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789669,
+                "measurementTimeStamp": "2018-01-27T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T22:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.215,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789670,
+                "measurementTimeStamp": "2018-01-27T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T23:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.215,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789671,
+                "measurementTimeStamp": "2018-01-28T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T00:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.214,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789672,
+                "measurementTimeStamp": "2018-01-28T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T01:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.214,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789673,
+                "measurementTimeStamp": "2018-01-28T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T02:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.214,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789674,
+                "measurementTimeStamp": "2018-01-28T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T03:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.214,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789675,
+                "measurementTimeStamp": "2018-01-28T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T04:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.214,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789676,
+                "measurementTimeStamp": "2018-01-28T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T05:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.214,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789677,
+                "measurementTimeStamp": "2018-01-28T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T06:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.213,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789678,
+                "measurementTimeStamp": "2018-01-28T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T07:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.213,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789679,
+                "measurementTimeStamp": "2018-01-28T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T08:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.213,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789680,
+                "measurementTimeStamp": "2018-01-28T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T09:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.213,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789681,
+                "measurementTimeStamp": "2018-01-28T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T10:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.213,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789682,
+                "measurementTimeStamp": "2018-01-28T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T11:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.213,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789683,
+                "measurementTimeStamp": "2018-01-28T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T12:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m.   33372.35 Ponte Pusterla",
+                "yValue": 29.213,
+                "color": "#00FF00"
+            }
+        ],
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamName": "Water level forecast river 6 section 727",
+        "dataStreamCategory": "Met"
+    }
+}

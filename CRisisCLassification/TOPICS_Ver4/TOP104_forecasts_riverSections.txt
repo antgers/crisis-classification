@@ -1,0 +1,304 @@
+{
+    "header": {
+        "scope": "Public",
+        "sentUTC": "2018-02-27T11:51:22Z",
+        "actionType": "Update",
+        "topicMinorVersion": "1",
+        "status": "Actual",
+        "topicName": "TOP104_METRIC_REPORT",
+        "code": 20190617001,
+        "note": "",
+        "references": "",
+        "sender": "CRCL",
+        "msgIdentifier": "20180227T115122MS265514",
+        "topicMajorVersion": "0",
+        "specificSender": "",
+        "district": "Vicenza",
+        "recipients": ""
+    },
+    "body": {
+        "dataStreamGenerator": "CRCL",
+        "dataStreamCategory": "Met",
+        "dataStreamDescription": "AMICO predictions of water level in the last run with ID:1113",
+        "position": {
+            "latitude": "45.54547",
+            "longitude": "11.53542"
+        },
+        "dataStreamName": "River Water Level Forecast",
+        "dataStreamID": 1113,
+        "dataStreamSubCategory": "Flood",
+        "measurements": [
+            {
+                "note": "Water level overflow: exceeding of the 1st alarm threshold",
+                "yValue": 141.811,
+                "dataSeriesID": 390,
+                "dataSeriesName": "ASTICO m.       .00",
+                "measurementID": 23968884,
+                "xValue": "",
+                "color": "#FFFF00",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 183.421,
+                "dataSeriesID": 456,
+                "dataSeriesName": "LEOGRA m.       .00",
+                "measurementID": 23976391,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 178.621,
+                "dataSeriesID": 457,
+                "dataSeriesName": "LEOGRA m.    250.00",
+                "measurementID": 23976504,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 175.858,
+                "dataSeriesID": 458,
+                "dataSeriesName": "LEOGRA m.    500.00",
+                "measurementID": 23976619,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 173.206,
+                "dataSeriesID": 459,
+                "dataSeriesName": "LEOGRA m.   1000.00",
+                "measurementID": 23976733,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 165.384,
+                "dataSeriesID": 460,
+                "dataSeriesName": "LEOGRA m.   1500.00",
+                "measurementID": 23976848,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 156.224,
+                "dataSeriesID": 461,
+                "dataSeriesName": "LEOGRA m.   2000.00",
+                "measurementID": 23976961,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 155.381,
+                "dataSeriesID": 462,
+                "dataSeriesName": "LEOGRA m.   2250.00",
+                "measurementID": 23977075,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 151.247,
+                "dataSeriesID": 463,
+                "dataSeriesName": "LEOGRA m.   2750.00",
+                "measurementID": 23977190,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 150.708,
+                "dataSeriesID": 464,
+                "dataSeriesName": "LEOGRA m.   3000.00",
+                "measurementID": 23977303,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 2nd alarm threshold",
+                "yValue": 146.519,
+                "dataSeriesID": 465,
+                "dataSeriesName": "LEOGRA m.   3250.00",
+                "measurementID": 23977417,
+                "xValue": "",
+                "color": "#FFA500",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 1st alarm threshold",
+                "yValue": 142.999,
+                "dataSeriesID": 466,
+                "dataSeriesName": "LEOGRA m.   3500.00",
+                "measurementID": 23977532,
+                "xValue": "",
+                "color": "#FFFF00",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 210.997,
+                "dataSeriesID": 512,
+                "dataSeriesName": "TIMONCHIO m.      1.98",
+                "measurementID": 23982771,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 210.414,
+                "dataSeriesID": 513,
+                "dataSeriesName": "TIMONCHIO m.    175.00",
+                "measurementID": 23982884,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 201.774,
+                "dataSeriesID": 514,
+                "dataSeriesName": "TIMONCHIO m.    545.00",
+                "measurementID": 23982998,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 194.853,
+                "dataSeriesID": 515,
+                "dataSeriesName": "TIMONCHIO m.    917.78",
+                "measurementID": 23983111,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 188.629,
+                "dataSeriesID": 516,
+                "dataSeriesName": "TIMONCHIO m.   1289.38",
+                "measurementID": 23983225,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 186.834,
+                "dataSeriesID": 517,
+                "dataSeriesName": "TIMONCHIO m.   1478.36",
+                "measurementID": 23983338,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 179.93,
+                "dataSeriesID": 518,
+                "dataSeriesName": "TIMONCHIO m.   1986.76",
+                "measurementID": 23983452,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 170.882,
+                "dataSeriesID": 519,
+                "dataSeriesName": "TIMONCHIO m.   2762.32",
+                "measurementID": 23983565,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 167,
+                "dataSeriesID": 520,
+                "dataSeriesName": "TIMONCHIO m.   3001.97",
+                "measurementID": 23983681,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 163.897,
+                "dataSeriesID": 521,
+                "dataSeriesName": "TIMONCHIO m.   3227.91",
+                "measurementID": 23983795,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 158.227,
+                "dataSeriesID": 522,
+                "dataSeriesName": "TIMONCHIO m.   3625.00",
+                "measurementID": 23983910,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 155.997,
+                "dataSeriesID": 523,
+                "dataSeriesName": "TIMONCHIO m.   4048.88",
+                "measurementID": 23984024,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "yValue": 151.164,
+                "dataSeriesID": 524,
+                "dataSeriesName": "TIMONCHIO m.   4463.46",
+                "measurementID": 23984139,
+                "xValue": "",
+                "color": "#FF0000",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 2nd alarm threshold",
+                "yValue": 146.206,
+                "dataSeriesID": 525,
+                "dataSeriesName": "TIMONCHIO m.   5177.90",
+                "measurementID": 23984252,
+                "xValue": "",
+                "color": "#FFA500",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            },
+            {
+                "note": "Water level overflow: exceeding of the 1st alarm threshold",
+                "yValue": 141.703,
+                "dataSeriesID": 526,
+                "dataSeriesName": "TIMONCHIO m.   5671.02",
+                "measurementID": 23984367,
+                "xValue": "",
+                "color": "#FFFF00",
+                "measurementTimeStamp": "2018-02-21T13:00:00Z"
+            }
+        ],
+        "language": "it-IT"
+    }
+}

@@ -1,0 +1,564 @@
+{
+    "header": {
+        "recipients": "",
+        "topicMinorVersion": "1",
+        "scope": "Public",
+        "topicMajorVersion": "0",
+        "sentUTC": "2018/02/07 12:51:36",
+        "note": "Threshold_1=40.77, Threshold_2=41.27, Threshold_3=42.07",
+        "sender": "CRCL",
+        "actionType": "Update",
+        "references": "",
+        "code": 20190617001,
+        "district": "Timonchio a ponte Marchese",
+        "specificSender": "",
+        "topicName": "TOP104_METRIC_REPORT",
+        "status": "Actual",
+        "msgIdentifier": "5433dfde68"
+    },
+    "body": {
+        "position": {
+            "longitude": 45.581799191,
+            "latitude": 11.534793332
+        },
+        "language": "it-IT",
+        "dataStreamID": 684,
+        "dataStreamDescription": "forecast and 1103",
+        "measurements": [
+            {
+                "measurementID": 23790362,
+                "measurementTimeStamp": "2018-01-26T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T08:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.291,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790363,
+                "measurementTimeStamp": "2018-01-26T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T09:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.291,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790364,
+                "measurementTimeStamp": "2018-01-26T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T10:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.29,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790365,
+                "measurementTimeStamp": "2018-01-26T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T11:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.29,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790366,
+                "measurementTimeStamp": "2018-01-26T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T12:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.289,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790367,
+                "measurementTimeStamp": "2018-01-26T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T13:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.288,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790368,
+                "measurementTimeStamp": "2018-01-26T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T14:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.288,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790369,
+                "measurementTimeStamp": "2018-01-26T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T15:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.287,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790370,
+                "measurementTimeStamp": "2018-01-26T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T16:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.287,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790371,
+                "measurementTimeStamp": "2018-01-26T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T17:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.286,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790372,
+                "measurementTimeStamp": "2018-01-26T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T18:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.286,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790373,
+                "measurementTimeStamp": "2018-01-26T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T19:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.285,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790374,
+                "measurementTimeStamp": "2018-01-26T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T20:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.285,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790375,
+                "measurementTimeStamp": "2018-01-26T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T21:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.285,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790376,
+                "measurementTimeStamp": "2018-01-26T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T22:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.284,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790377,
+                "measurementTimeStamp": "2018-01-26T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T23:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.284,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790378,
+                "measurementTimeStamp": "2018-01-27T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T00:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.283,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790379,
+                "measurementTimeStamp": "2018-01-27T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T01:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.283,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790380,
+                "measurementTimeStamp": "2018-01-27T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T02:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.282,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790381,
+                "measurementTimeStamp": "2018-01-27T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T03:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.282,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790382,
+                "measurementTimeStamp": "2018-01-27T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T04:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.281,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790383,
+                "measurementTimeStamp": "2018-01-27T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T05:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.281,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790384,
+                "measurementTimeStamp": "2018-01-27T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T06:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.28,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790385,
+                "measurementTimeStamp": "2018-01-27T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T07:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.28,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790386,
+                "measurementTimeStamp": "2018-01-27T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T08:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.28,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790387,
+                "measurementTimeStamp": "2018-01-27T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T09:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.279,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790388,
+                "measurementTimeStamp": "2018-01-27T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T10:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.279,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790389,
+                "measurementTimeStamp": "2018-01-27T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T11:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.278,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790390,
+                "measurementTimeStamp": "2018-01-27T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T12:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.278,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790391,
+                "measurementTimeStamp": "2018-01-27T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T13:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.277,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790392,
+                "measurementTimeStamp": "2018-01-27T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T14:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.277,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790393,
+                "measurementTimeStamp": "2018-01-27T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T15:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.276,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790394,
+                "measurementTimeStamp": "2018-01-27T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T16:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.276,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790395,
+                "measurementTimeStamp": "2018-01-27T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T17:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.276,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790396,
+                "measurementTimeStamp": "2018-01-27T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T18:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.275,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790397,
+                "measurementTimeStamp": "2018-01-27T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T19:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.275,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790398,
+                "measurementTimeStamp": "2018-01-27T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T20:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.275,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790399,
+                "measurementTimeStamp": "2018-01-27T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T21:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.275,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790400,
+                "measurementTimeStamp": "2018-01-27T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T22:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.274,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790401,
+                "measurementTimeStamp": "2018-01-27T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T23:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.274,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790402,
+                "measurementTimeStamp": "2018-01-28T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T00:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.273,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790403,
+                "measurementTimeStamp": "2018-01-28T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T01:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.273,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790404,
+                "measurementTimeStamp": "2018-01-28T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T02:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.272,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790405,
+                "measurementTimeStamp": "2018-01-28T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T03:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.272,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790406,
+                "measurementTimeStamp": "2018-01-28T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T04:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.271,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790407,
+                "measurementTimeStamp": "2018-01-28T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T05:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.271,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790408,
+                "measurementTimeStamp": "2018-01-28T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T06:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.27,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790409,
+                "measurementTimeStamp": "2018-01-28T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T07:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.27,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790410,
+                "measurementTimeStamp": "2018-01-28T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T08:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.269,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790411,
+                "measurementTimeStamp": "2018-01-28T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T09:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.269,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790412,
+                "measurementTimeStamp": "2018-01-28T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T10:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.269,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790413,
+                "measurementTimeStamp": "2018-01-28T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T11:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.268,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23790414,
+                "measurementTimeStamp": "2018-01-28T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T12:00:00.000Z",
+                "dataSeriesName": "Timonchio a ponte Marchese",
+                "yValue": 36.268,
+                "color": "#00FF00"
+            }
+        ],
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamName": "Water level forecast river 6 section 456",
+        "dataStreamCategory": "Met"
+    }
+}

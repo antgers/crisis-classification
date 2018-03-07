@@ -1,0 +1,564 @@
+{
+    "header": {
+        "recipients": "",
+        "topicMinorVersion": "1",
+        "scope": "Public",
+        "topicMajorVersion": "0",
+        "sentUTC": "2018/02/07 12:48:18",
+        "note": "Threshold_1=33.954, Threshold_2=34.454, Threshold_3=35.254",
+        "sender": "CRCL",
+        "actionType": "Update",
+        "references": "",
+        "code": 20190617001,
+        "district": "ASTICO m.  26282.00",
+        "specificSender": "",
+        "topicName": "TOP104_METRIC_REPORT",
+        "status": "Actual",
+        "msgIdentifier": "5433dfde68"
+    },
+    "body": {
+        "position": {
+            "longitude": 45.552289903,
+            "latitude": 11.627905418
+        },
+        "language": "it-IT",
+        "dataStreamID": 544,
+        "dataStreamDescription": "forecast and 1103",
+        "measurements": [
+            {
+                "measurementID": 23764897,
+                "measurementTimeStamp": "2018-01-26T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T08:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.995,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764898,
+                "measurementTimeStamp": "2018-01-26T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T09:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.994,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764899,
+                "measurementTimeStamp": "2018-01-26T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T10:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.994,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764900,
+                "measurementTimeStamp": "2018-01-26T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T11:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.993,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764901,
+                "measurementTimeStamp": "2018-01-26T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T12:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.992,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764902,
+                "measurementTimeStamp": "2018-01-26T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T13:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.992,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764903,
+                "measurementTimeStamp": "2018-01-26T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T14:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.991,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764904,
+                "measurementTimeStamp": "2018-01-26T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T15:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.99,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764905,
+                "measurementTimeStamp": "2018-01-26T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T16:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.99,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764906,
+                "measurementTimeStamp": "2018-01-26T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T17:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.989,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764907,
+                "measurementTimeStamp": "2018-01-26T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T18:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.989,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764908,
+                "measurementTimeStamp": "2018-01-26T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T19:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.989,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764909,
+                "measurementTimeStamp": "2018-01-26T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T20:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.988,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764910,
+                "measurementTimeStamp": "2018-01-26T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T21:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.988,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764911,
+                "measurementTimeStamp": "2018-01-26T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T22:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.988,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764912,
+                "measurementTimeStamp": "2018-01-26T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T23:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.988,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764913,
+                "measurementTimeStamp": "2018-01-27T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T00:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.988,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764914,
+                "measurementTimeStamp": "2018-01-27T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T01:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.989,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764915,
+                "measurementTimeStamp": "2018-01-27T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T02:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.989,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764916,
+                "measurementTimeStamp": "2018-01-27T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T03:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.989,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764917,
+                "measurementTimeStamp": "2018-01-27T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T04:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.988,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764918,
+                "measurementTimeStamp": "2018-01-27T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T05:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.988,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764919,
+                "measurementTimeStamp": "2018-01-27T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T06:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.988,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764920,
+                "measurementTimeStamp": "2018-01-27T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T07:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.988,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764921,
+                "measurementTimeStamp": "2018-01-27T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T08:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.987,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764922,
+                "measurementTimeStamp": "2018-01-27T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T09:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.987,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764923,
+                "measurementTimeStamp": "2018-01-27T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T10:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.986,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764924,
+                "measurementTimeStamp": "2018-01-27T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T11:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.986,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764925,
+                "measurementTimeStamp": "2018-01-27T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T12:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.985,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764926,
+                "measurementTimeStamp": "2018-01-27T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T13:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.985,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764927,
+                "measurementTimeStamp": "2018-01-27T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T14:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.984,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764928,
+                "measurementTimeStamp": "2018-01-27T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T15:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.984,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764929,
+                "measurementTimeStamp": "2018-01-27T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T16:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.983,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764930,
+                "measurementTimeStamp": "2018-01-27T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T17:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.983,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764931,
+                "measurementTimeStamp": "2018-01-27T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T18:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.983,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764932,
+                "measurementTimeStamp": "2018-01-27T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T19:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.982,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764933,
+                "measurementTimeStamp": "2018-01-27T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T20:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.982,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764934,
+                "measurementTimeStamp": "2018-01-27T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T21:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.982,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764935,
+                "measurementTimeStamp": "2018-01-27T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T22:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.982,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764936,
+                "measurementTimeStamp": "2018-01-27T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T23:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.983,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764937,
+                "measurementTimeStamp": "2018-01-28T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T00:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.983,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764938,
+                "measurementTimeStamp": "2018-01-28T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T01:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.983,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764939,
+                "measurementTimeStamp": "2018-01-28T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T02:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.983,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764940,
+                "measurementTimeStamp": "2018-01-28T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T03:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.983,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764941,
+                "measurementTimeStamp": "2018-01-28T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T04:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.983,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764942,
+                "measurementTimeStamp": "2018-01-28T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T05:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.982,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764943,
+                "measurementTimeStamp": "2018-01-28T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T06:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.982,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764944,
+                "measurementTimeStamp": "2018-01-28T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T07:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.982,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764945,
+                "measurementTimeStamp": "2018-01-28T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T08:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.981,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764946,
+                "measurementTimeStamp": "2018-01-28T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T09:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.981,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764947,
+                "measurementTimeStamp": "2018-01-28T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T10:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.98,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764948,
+                "measurementTimeStamp": "2018-01-28T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T11:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.98,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23764949,
+                "measurementTimeStamp": "2018-01-28T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T12:00:00.000Z",
+                "dataSeriesName": "ASTICO m.  26282.00",
+                "yValue": 27.979,
+                "color": "#00FF00"
+            }
+        ],
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamName": "Water level forecast river 1 section 141",
+        "dataStreamCategory": "Met"
+    }
+}

@@ -1,0 +1,564 @@
+{
+    "header": {
+        "recipients": "",
+        "topicMinorVersion": "1",
+        "scope": "Public",
+        "topicMajorVersion": "0",
+        "sentUTC": "2018/02/07 12:48:42",
+        "note": "Threshold_1=186.371, Threshold_2=186.871, Threshold_3=187.671",
+        "sender": "CRCL",
+        "actionType": "Update",
+        "references": "",
+        "code": 20190617001,
+        "district": "LEOGRA m.       .00",
+        "specificSender": "",
+        "topicName": "TOP104_METRIC_REPORT",
+        "status": "Actual",
+        "msgIdentifier": "5433dfde68"
+    },
+    "body": {
+        "position": {
+            "longitude": 45.706775729,
+            "latitude": 11.363394
+        },
+        "language": "it-IT",
+        "dataStreamID": 562,
+        "dataStreamDescription": "forecast and 1103",
+        "measurements": [
+            {
+                "measurementID": 23765902,
+                "measurementTimeStamp": "2018-01-26T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T08:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.342,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765903,
+                "measurementTimeStamp": "2018-01-26T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T09:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.342,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765904,
+                "measurementTimeStamp": "2018-01-26T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T10:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.342,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765905,
+                "measurementTimeStamp": "2018-01-26T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T11:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.341,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765906,
+                "measurementTimeStamp": "2018-01-26T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T12:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.341,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765907,
+                "measurementTimeStamp": "2018-01-26T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T13:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.341,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765908,
+                "measurementTimeStamp": "2018-01-26T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T14:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.34,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765909,
+                "measurementTimeStamp": "2018-01-26T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T15:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.34,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765910,
+                "measurementTimeStamp": "2018-01-26T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T16:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.34,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765911,
+                "measurementTimeStamp": "2018-01-26T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T17:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.34,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765912,
+                "measurementTimeStamp": "2018-01-26T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T18:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.339,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765913,
+                "measurementTimeStamp": "2018-01-26T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T19:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.339,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765914,
+                "measurementTimeStamp": "2018-01-26T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T20:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.338,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765915,
+                "measurementTimeStamp": "2018-01-26T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T21:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.338,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765916,
+                "measurementTimeStamp": "2018-01-26T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T22:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.338,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765917,
+                "measurementTimeStamp": "2018-01-26T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T23:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.337,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765918,
+                "measurementTimeStamp": "2018-01-27T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T00:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.337,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765919,
+                "measurementTimeStamp": "2018-01-27T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T01:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.337,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765920,
+                "measurementTimeStamp": "2018-01-27T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T02:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.336,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765921,
+                "measurementTimeStamp": "2018-01-27T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T03:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.336,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765922,
+                "measurementTimeStamp": "2018-01-27T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T04:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.336,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765923,
+                "measurementTimeStamp": "2018-01-27T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T05:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.335,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765924,
+                "measurementTimeStamp": "2018-01-27T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T06:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.335,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765925,
+                "measurementTimeStamp": "2018-01-27T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T07:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.335,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765926,
+                "measurementTimeStamp": "2018-01-27T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T08:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.334,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765927,
+                "measurementTimeStamp": "2018-01-27T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T09:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.334,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765928,
+                "measurementTimeStamp": "2018-01-27T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T10:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.333,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765929,
+                "measurementTimeStamp": "2018-01-27T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T11:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.333,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765930,
+                "measurementTimeStamp": "2018-01-27T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T12:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.333,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765931,
+                "measurementTimeStamp": "2018-01-27T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T13:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.333,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765932,
+                "measurementTimeStamp": "2018-01-27T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T14:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.333,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765933,
+                "measurementTimeStamp": "2018-01-27T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T15:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.332,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765934,
+                "measurementTimeStamp": "2018-01-27T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T16:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.332,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765935,
+                "measurementTimeStamp": "2018-01-27T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T17:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.332,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765936,
+                "measurementTimeStamp": "2018-01-27T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T18:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.331,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765937,
+                "measurementTimeStamp": "2018-01-27T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T19:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.331,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765938,
+                "measurementTimeStamp": "2018-01-27T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T20:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.331,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765939,
+                "measurementTimeStamp": "2018-01-27T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T21:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.33,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765940,
+                "measurementTimeStamp": "2018-01-27T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T22:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.33,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765941,
+                "measurementTimeStamp": "2018-01-27T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T23:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.33,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765942,
+                "measurementTimeStamp": "2018-01-28T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T00:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.329,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765943,
+                "measurementTimeStamp": "2018-01-28T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T01:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.329,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765944,
+                "measurementTimeStamp": "2018-01-28T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T02:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.329,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765945,
+                "measurementTimeStamp": "2018-01-28T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T03:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.328,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765946,
+                "measurementTimeStamp": "2018-01-28T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T04:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.328,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765947,
+                "measurementTimeStamp": "2018-01-28T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T05:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.328,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765948,
+                "measurementTimeStamp": "2018-01-28T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T06:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.327,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765949,
+                "measurementTimeStamp": "2018-01-28T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T07:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.327,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765950,
+                "measurementTimeStamp": "2018-01-28T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T08:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.327,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765951,
+                "measurementTimeStamp": "2018-01-28T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T09:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.326,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765952,
+                "measurementTimeStamp": "2018-01-28T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T10:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.326,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765953,
+                "measurementTimeStamp": "2018-01-28T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T11:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.326,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23765954,
+                "measurementTimeStamp": "2018-01-28T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T12:00:00.000Z",
+                "dataSeriesName": "LEOGRA m.       .00",
+                "yValue": 183.326,
+                "color": "#00FF00"
+            }
+        ],
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamName": "Water level forecast river 2 section 167",
+        "dataStreamCategory": "Met"
+    }
+}

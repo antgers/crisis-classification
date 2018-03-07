@@ -1,0 +1,12 @@
+
+ Station ID = 45 and Datastream ID = 165
+{"value": [{"name": "Timonchio a Ponte Marchese CAE", "@iot.id": 45, "description": "Weather station Timonchio a Ponte Marchese CAE", "Datastreams": [{"name": "Water Level Timonchio a Ponte Marchese CAE", "@iot.id": 165, "phenomenonTime": "2016-01-01T00:00:00.000Z/2018-02-28T13:00:00.000Z", "Observations": [{"result": -0.17, "phenomenonTime": "2018-02-28T13:00:00.000Z"}]}]}]}
+ ------------------------------ 
+
+ Station ID = 47 and Datastream ID = 167
+{"value": [{"name": "Bacchiglione a Vicenza CAE", "@iot.id": 47, "description": "Weather station Bacchiglione a Vicenza CAE", "Datastreams": [{"name": "Water Level Bacchiglione a Vicenza CAE", "@iot.id": 167, "phenomenonTime": "2016-01-01T00:00:00.000Z/2018-02-28T13:00:00.000Z", "Observations": [{"result": 0.56, "phenomenonTime": "2018-02-28T13:00:00.000Z"}]}]}]}
+ ------------------------------ 
+
+ Station ID = 374 and Datastream ID = 492
+{"value": [{"name": "Retrone a Vicenza S.Agostino CAE", "@iot.id": 374, "description": "Weather station Retrone a Vicenza S.Agostino CAE", "Datastreams": [{"name": "Water Level Retrone a Vicenza S.Agostino CAE", "@iot.id": 492, "phenomenonTime": "2016-01-01T00:00:00.000Z/2018-02-28T13:00:00.000Z", "Observations": [{"result": -0.31, "phenomenonTime": "2018-02-28T13:00:00.000Z"}]}]}]}
+ ------------------------------ 

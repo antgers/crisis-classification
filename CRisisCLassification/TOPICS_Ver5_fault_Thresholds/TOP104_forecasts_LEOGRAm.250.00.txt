@@ -1,0 +1,44 @@
+{
+    "header": {
+        "sender": "CRCL",
+        "msgIdentifier": "20180227T145012MS585292",
+        "scope": "Public",
+        "topicMinorVersion": "1",
+        "recipients": "",
+        "sentUTC": "2018-02-27T14:50:12Z",
+        "code": 20190617001,
+        "status": "Actual",
+        "topicMajorVersion": "0",
+        "topicName": "TOP104_METRIC_REPORT",
+        "district": "Vicenza",
+        "specificSender": "",
+        "references": "",
+        "actionType": "Update",
+        "note": "Threshold_1=140, Threshold_2=145, Threshold_3=150"
+    },
+    "body": {
+        "dataStreamDescription": "AMICO predictions of water level in the last run with ID:1113",
+        "dataStreamID": 1113,
+        "dataStreamCategory": "Met",
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "position": {
+            "latitude": 45.705992914,
+            "longitude": 11.366748057
+        },
+        "language": "it-IT",
+        "dataStreamName": "River Water Level Forecast",
+        "measurements": [
+            {
+                "measurementTimeStamp": "2018-02-23T01:00:00Z",
+                "measurementID": 23976542,
+                "dataSeriesName": "LEOGRA m.    250.00",
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "xValue": "",
+                "dataSeriesID": 457,
+                "color": "#FF0000",
+                "yValue": 178.621
+            }
+        ]
+    }
+}

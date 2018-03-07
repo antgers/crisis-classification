@@ -1,0 +1,44 @@
+{
+    "header": {
+        "topicMajorVersion": "0",
+        "topicMinorVersion": "1",
+        "scope": "Public",
+        "status": "Actual",
+        "note": "",
+        "sentUTC": "2018-03-05T15:32:31Z",
+        "references": "",
+        "district": "Vicenza",
+        "specificSender": "",
+        "actionType": "Update",
+        "code": 20190617001,
+        "topicName": "TOP104_METRIC_REPORT",
+        "sender": "CRCL",
+        "msgIdentifier": "20180305T153231MS240893",
+        "recipients": ""
+    },
+    "body": {
+        "measurements": [
+            {
+                "color": "#FFFF00",
+                "measurementTimeStamp": "2018-03-05T15:32:31Z",
+                "xValue": "",
+                "yValue": 1,
+                "dataSeriesID": "1",
+                "note": "Overall Crisis Classification Index is LOW!!!",
+                "measurementID": "1",
+                "dataSeriesName": "Overall Crisis Classification Index"
+            }
+        ],
+        "dataStreamSubCategory": "Flood",
+        "dataStreamID": 1,
+        "position": {
+            "latitude": 45.55012,
+            "longitude": 11.54679
+        },
+        "dataStreamName": "Overall Crisis Classification Index",
+        "dataStreamGenerator": "CRCL",
+        "dataStreamCategory": "Met",
+        "language": "it-IT",
+        "dataStreamDescription": "Overall Crisis Classification Index at the Region Of Interest based on river water levels by AMICO's forecast"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "body": {
+        "measurements": [
+            {
+                "note": "Water level OK",
+                "xValue": "2018-01-26T08:00:00.000Z",
+                "color": "#00FF00",
+                "measurementID": 23762219,
+                "dataSeriesName": "ASTICO m.       .00",
+                "measurementTimeStamp": "2018-01-26T08:00:00.000Z",
+                "dataSeriesID": "1",
+                "yValue": 141.824
+            }
+        ],
+        "dataStreamGenerator": "CRCL",
+        "language": "it-IT",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamDescription": "forecast and 1103",
+        "dataStreamName": "Water level forecast river 1 section 1",
+        "position": {
+            "latitude": 11.523397787,
+            "longitude": 45.740332013
+        },
+        "dataStreamCategory": "Met",
+        "dataStreamID": 496
+    },
+    "header": {
+        "recipients": "",
+        "note": "Threshold_1=143.62, Threshold_2=144.12, Threshold_3=144.92",
+        "status": "Actual",
+        "code": 20190617001,
+        "district": "ASTICO m.       .00",
+        "topicMinorVersion": "1",
+        "actionType": "Update",
+        "specificSender": "",
+        "sender": "CRCL",
+        "sentUTC": "2018/02/06 14:37:31",
+        "references": "",
+        "msgIdentifier": "5433dfde68",
+        "scope": "Public",
+        "topicMajorVersion": "0",
+        "topicName": "TOP104_METRIC_REPORT"
+    }
+}

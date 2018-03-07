@@ -1,0 +1,564 @@
+{
+    "header": {
+        "recipients": "",
+        "topicMinorVersion": "1",
+        "scope": "Public",
+        "topicMajorVersion": "0",
+        "sentUTC": "2018/02/07 12:49:46",
+        "note": "Threshold_1=11.075, Threshold_2=11.575, Threshold_3=12.375",
+        "sender": "CRCL",
+        "actionType": "Update",
+        "references": "",
+        "code": 20190617001,
+        "district": "PIOVEGO m.   8700.00",
+        "specificSender": "",
+        "topicName": "TOP104_METRIC_REPORT",
+        "status": "Actual",
+        "msgIdentifier": "5433dfde68"
+    },
+    "body": {
+        "position": {
+            "longitude": 45.408214223,
+            "latitude": 11.995535738
+        },
+        "language": "it-IT",
+        "dataStreamID": 606,
+        "dataStreamDescription": "forecast and 1103",
+        "measurements": [
+            {
+                "measurementID": 23768364,
+                "measurementTimeStamp": "2018-01-26T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T08:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.617,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768365,
+                "measurementTimeStamp": "2018-01-26T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T09:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.616,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768366,
+                "measurementTimeStamp": "2018-01-26T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T10:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.615,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768367,
+                "measurementTimeStamp": "2018-01-26T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T11:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.614,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768368,
+                "measurementTimeStamp": "2018-01-26T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T12:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.614,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768369,
+                "measurementTimeStamp": "2018-01-26T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T13:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.613,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768370,
+                "measurementTimeStamp": "2018-01-26T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T14:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.612,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768371,
+                "measurementTimeStamp": "2018-01-26T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T15:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.612,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768372,
+                "measurementTimeStamp": "2018-01-26T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T16:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.611,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768373,
+                "measurementTimeStamp": "2018-01-26T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T17:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.61,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768374,
+                "measurementTimeStamp": "2018-01-26T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T18:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.61,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768375,
+                "measurementTimeStamp": "2018-01-26T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T19:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.609,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768376,
+                "measurementTimeStamp": "2018-01-26T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T20:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.608,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768377,
+                "measurementTimeStamp": "2018-01-26T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T21:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.608,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768378,
+                "measurementTimeStamp": "2018-01-26T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T22:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.607,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768379,
+                "measurementTimeStamp": "2018-01-26T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T23:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.606,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768380,
+                "measurementTimeStamp": "2018-01-27T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T00:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.605,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768381,
+                "measurementTimeStamp": "2018-01-27T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T01:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.605,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768382,
+                "measurementTimeStamp": "2018-01-27T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T02:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.604,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768383,
+                "measurementTimeStamp": "2018-01-27T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T03:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.603,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768384,
+                "measurementTimeStamp": "2018-01-27T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T04:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.602,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768385,
+                "measurementTimeStamp": "2018-01-27T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T05:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.601,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768386,
+                "measurementTimeStamp": "2018-01-27T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T06:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.6,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768387,
+                "measurementTimeStamp": "2018-01-27T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T07:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.6,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768388,
+                "measurementTimeStamp": "2018-01-27T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T08:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.599,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768389,
+                "measurementTimeStamp": "2018-01-27T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T09:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.598,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768390,
+                "measurementTimeStamp": "2018-01-27T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T10:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.597,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768391,
+                "measurementTimeStamp": "2018-01-27T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T11:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.596,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768392,
+                "measurementTimeStamp": "2018-01-27T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T12:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.595,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768393,
+                "measurementTimeStamp": "2018-01-27T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T13:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.595,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768394,
+                "measurementTimeStamp": "2018-01-27T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T14:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.594,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768395,
+                "measurementTimeStamp": "2018-01-27T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T15:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.593,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768396,
+                "measurementTimeStamp": "2018-01-27T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T16:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.593,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768397,
+                "measurementTimeStamp": "2018-01-27T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T17:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.592,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768398,
+                "measurementTimeStamp": "2018-01-27T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T18:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.591,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768399,
+                "measurementTimeStamp": "2018-01-27T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T19:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.591,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768400,
+                "measurementTimeStamp": "2018-01-27T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T20:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.59,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768401,
+                "measurementTimeStamp": "2018-01-27T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T21:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.589,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768402,
+                "measurementTimeStamp": "2018-01-27T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T22:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.589,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768403,
+                "measurementTimeStamp": "2018-01-27T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T23:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.588,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768404,
+                "measurementTimeStamp": "2018-01-28T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T00:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.588,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768405,
+                "measurementTimeStamp": "2018-01-28T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T01:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.587,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768406,
+                "measurementTimeStamp": "2018-01-28T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T02:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.586,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768407,
+                "measurementTimeStamp": "2018-01-28T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T03:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.586,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768408,
+                "measurementTimeStamp": "2018-01-28T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T04:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.585,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768409,
+                "measurementTimeStamp": "2018-01-28T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T05:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.584,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768410,
+                "measurementTimeStamp": "2018-01-28T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T06:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.584,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768411,
+                "measurementTimeStamp": "2018-01-28T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T07:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.583,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768412,
+                "measurementTimeStamp": "2018-01-28T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T08:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.582,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768413,
+                "measurementTimeStamp": "2018-01-28T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T09:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.582,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768414,
+                "measurementTimeStamp": "2018-01-28T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T10:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.581,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768415,
+                "measurementTimeStamp": "2018-01-28T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T11:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.58,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768416,
+                "measurementTimeStamp": "2018-01-28T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T12:00:00.000Z",
+                "dataSeriesName": "PIOVEGO m.   8700.00",
+                "yValue": 5.58,
+                "color": "#00FF00"
+            }
+        ],
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamName": "Water level forecast river 4 section 291",
+        "dataStreamCategory": "Met"
+    }
+}

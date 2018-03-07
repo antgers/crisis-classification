@@ -1,0 +1,85 @@
+  https://beaware.server.de/SensorThingsService/v1.0/Datastreams(496)/Observations?$resultFormat=DataArray
+  
+  https://beaware.server.de/SensorThingsService/v1.0/Datastreams(496)/Observations
+  
+  https://beaware.server.de/SensorThingsService/v1.0/Things(390)?$expand=Datastreams($select=id,name,properties;$expand=Observations)
+  
+  https://beaware.server.de/SensorThingsService/v1.0/Things?$select=name,description,properties
+  
+  https://beaware.server.de/SensorThingsService/v1.0/Observations?$resultFormat=dataArray
+  
+  https://beaware.server.de/SensorThingsService/v1.0/Things
+  
+  https://beaware.server.de/SensorThingsService/v1.0/Things?$expand=Datastreams/Observations
+  
+  https://beaware.server.de/SensorThingsService/v1.0/Things?$expand=Datastreams/Observations/FeatureOfInterest
+  
+https://beaware.server.de/SensorThingsService/v1.0/Things?$expand=Datastreams/Observations/FeatureOfInterest&$filter=Datastreams/Observations/FeatureOfInterest/id eq '14'and Datastreams/Observations/phenomenonTime ge
+2010-06-01T00:00:00Z and Datastreams/Observations/phenomenonTime le 2010-07-
+01T00:00:00Z 
+
+
+https://beaware.server.de/SensorThingsService/v1.0/Things?$expand=Datastreams/Observations/FeatureOfInterest&$filter=Datastreams/Observations/FeatureOfInterest/id eq '14' and Datastreams/Observations/resultTime ge
+2010-06-01T00:00:00Z and Datastreams/Observations/resultTime le 2010-07-
+01T00:00:00Z
+
+
+https://beaware.server.de/SensorThingsService/v1.0/Things?$filter=properties/type%20eq%20%27river%27
+
+https://beaware.server.de/SensorThingsService/v1.0/Things?$filter=name%20eq%20%27Bacchiglione%20a%20Longare%20CAE%27%20and%20properties/type%20eq%20%27station%27
+
+---- extract self links
+t <- fromJSON( paste0(service_root_URI, "Datastreams(1)/Observations/$ref") )
+
+https://beaware.server.de/SensorThingsService/v1.0/Things(46)?$expand=Datastreams,%20MultiDatastreams
+
+
+Datastreams(1)?$select=id,Observations&$expand=Observ
+ations/FeatureOfInterest
+
+
+# values of a datasream are stored in Observations
+# this is for the Datastream with id = 84 which presents the Air Temperature:
+# https://beaware.server.de/SensorThingsService/v1.0/Datastreams(84)/Observations 
+
+# extract the links of the Datastreams
+https://beaware.server.de/SensorThingsService/v1.0/Things(37)/Datastreams?$select=Observations
+
+# reply:
+{
+  "value" : [ {
+    "Observations@iot.navigationLink" : "https://beaware.server.de/SensorThingsService/v1.0/Datastreams(84)/Observations"
+  }, {
+    "Observations@iot.navigationLink" : "https://beaware.server.de/SensorThingsService/v1.0/Datastreams(117)/Observations"
+  }, {
+    "Observations@iot.navigationLink" : "https://beaware.server.de/SensorThingsService/v1.0/Datastreams(148)/Observations"
+  } ]
+}
+
+
+# extract the values of the Datastream 84 in one day
+#
+https://beaware.server.de/SensorThingsService/v1.0/Things(37)/Datastreams(84)/Observations?$select=result,%20phenomenonTime&$filter=phenomenonTime%20ge%202016-01-01T00:00:00.000Z%20and%20phenomenonTime%20le%202016-01-02T00:00:00.000Z
+
+# in dataArray format
+https://beaware.server.de/SensorThingsService/v1.0/Things(37)/Datastreams(84)/Observations?$select=result,%20phenomenonTime&$filter=phenomenonTime%20ge%202016-01-01T00:00:00.000Z%20and%20phenomenonTime%20le%202016-01-02T00:00:00.000Z&$resultFormat=dataArray
+
+# more than top 50 entries...
+#
+https://beaware.server.de/SensorThingsService/v1.0/Things(37)/Datastreams(84)/Observations?$select=result,%20phenomenonTime&$filter=phenomenonTime%20ge%202017-08-01T00:00:00.000Z%20and%20phenomenonTime%20le%202018-01-01T00:00:00.000Z&$top=100000
+
+
+# correct query 2
+# https://beaware.server.de/SensorThingsService/v1.0/Things(37)?$select=id,name%20&$expand=
+# Datastreams($filter=id%20eq%2084;$expand=Observations(
+# $filter=phenomenonTime%20ge%202017-08-01T00:00:00.000Z%20and%20phenomenonTime%20le%202018-01-15T00:00:00.000Z%20;$top=10000))
+
+
+# Extract only the river sections and their details Datastream -> Observations
+#
+https://beaware.server.de/SensorThingsService/v1.0/Things?$filter=properties/type%20ne%20%27river%27%20and%20properties/type%20ne%20%27station%27&$select=id,name,description&$expand=Datastreams($select=id,name;$expand=Observations)&$top=1000
+
+
+
+
+

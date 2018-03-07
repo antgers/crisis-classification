@@ -1,0 +1,564 @@
+{
+    "header": {
+        "recipients": "",
+        "topicMinorVersion": "1",
+        "scope": "Public",
+        "topicMajorVersion": "0",
+        "sentUTC": "2018/02/07 12:49:09",
+        "note": "Threshold_1=39.98, Threshold_2=40.48, Threshold_3=41.28",
+        "sender": "CRCL",
+        "actionType": "Update",
+        "references": "",
+        "code": 20190617001,
+        "district": "OROLO m.   7219.79",
+        "specificSender": "",
+        "topicName": "TOP104_METRIC_REPORT",
+        "status": "Actual",
+        "msgIdentifier": "5433dfde68"
+    },
+    "body": {
+        "position": {
+            "longitude": 45.583910926,
+            "latitude": 11.508021186
+        },
+        "language": "it-IT",
+        "dataStreamID": 582,
+        "dataStreamDescription": "forecast and 1103",
+        "measurements": [
+            {
+                "measurementID": 23767020,
+                "measurementTimeStamp": "2018-01-26T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T08:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.382,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767021,
+                "measurementTimeStamp": "2018-01-26T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T09:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.382,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767022,
+                "measurementTimeStamp": "2018-01-26T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T10:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.382,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767023,
+                "measurementTimeStamp": "2018-01-26T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T11:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.382,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767024,
+                "measurementTimeStamp": "2018-01-26T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T12:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.381,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767025,
+                "measurementTimeStamp": "2018-01-26T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T13:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.381,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767026,
+                "measurementTimeStamp": "2018-01-26T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T14:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.381,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767027,
+                "measurementTimeStamp": "2018-01-26T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T15:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.381,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767028,
+                "measurementTimeStamp": "2018-01-26T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T16:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.381,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767029,
+                "measurementTimeStamp": "2018-01-26T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T17:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.381,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767030,
+                "measurementTimeStamp": "2018-01-26T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T18:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.381,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767031,
+                "measurementTimeStamp": "2018-01-26T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T19:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.381,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767032,
+                "measurementTimeStamp": "2018-01-26T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T20:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.381,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767033,
+                "measurementTimeStamp": "2018-01-26T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T21:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.381,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767034,
+                "measurementTimeStamp": "2018-01-26T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T22:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.381,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767035,
+                "measurementTimeStamp": "2018-01-26T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T23:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.38,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767036,
+                "measurementTimeStamp": "2018-01-27T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T00:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.38,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767037,
+                "measurementTimeStamp": "2018-01-27T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T01:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.38,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767038,
+                "measurementTimeStamp": "2018-01-27T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T02:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.38,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767039,
+                "measurementTimeStamp": "2018-01-27T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T03:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.38,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767040,
+                "measurementTimeStamp": "2018-01-27T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T04:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.38,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767041,
+                "measurementTimeStamp": "2018-01-27T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T05:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.38,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767042,
+                "measurementTimeStamp": "2018-01-27T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T06:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.38,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767043,
+                "measurementTimeStamp": "2018-01-27T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T07:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.38,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767044,
+                "measurementTimeStamp": "2018-01-27T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T08:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.38,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767045,
+                "measurementTimeStamp": "2018-01-27T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T09:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.38,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767046,
+                "measurementTimeStamp": "2018-01-27T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T10:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.379,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767047,
+                "measurementTimeStamp": "2018-01-27T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T11:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.379,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767048,
+                "measurementTimeStamp": "2018-01-27T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T12:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.379,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767049,
+                "measurementTimeStamp": "2018-01-27T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T13:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.379,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767050,
+                "measurementTimeStamp": "2018-01-27T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T14:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.379,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767051,
+                "measurementTimeStamp": "2018-01-27T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T15:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.379,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767052,
+                "measurementTimeStamp": "2018-01-27T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T16:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.379,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767053,
+                "measurementTimeStamp": "2018-01-27T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T17:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.379,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767054,
+                "measurementTimeStamp": "2018-01-27T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T18:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.379,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767055,
+                "measurementTimeStamp": "2018-01-27T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T19:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.379,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767056,
+                "measurementTimeStamp": "2018-01-27T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T20:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.379,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767057,
+                "measurementTimeStamp": "2018-01-27T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T21:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.378,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767058,
+                "measurementTimeStamp": "2018-01-27T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T22:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.378,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767059,
+                "measurementTimeStamp": "2018-01-27T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T23:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.378,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767060,
+                "measurementTimeStamp": "2018-01-28T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T00:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.378,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767061,
+                "measurementTimeStamp": "2018-01-28T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T01:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.378,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767062,
+                "measurementTimeStamp": "2018-01-28T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T02:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.378,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767063,
+                "measurementTimeStamp": "2018-01-28T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T03:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.378,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767064,
+                "measurementTimeStamp": "2018-01-28T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T04:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.378,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767065,
+                "measurementTimeStamp": "2018-01-28T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T05:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.378,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767066,
+                "measurementTimeStamp": "2018-01-28T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T06:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.378,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767067,
+                "measurementTimeStamp": "2018-01-28T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T07:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.378,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767068,
+                "measurementTimeStamp": "2018-01-28T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T08:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.378,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767069,
+                "measurementTimeStamp": "2018-01-28T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T09:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.377,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767070,
+                "measurementTimeStamp": "2018-01-28T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T10:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.377,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767071,
+                "measurementTimeStamp": "2018-01-28T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T11:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.377,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23767072,
+                "measurementTimeStamp": "2018-01-28T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T12:00:00.000Z",
+                "dataSeriesName": "OROLO m.   7219.79",
+                "yValue": 38.377,
+                "color": "#00FF00"
+            }
+        ],
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamName": "Water level forecast river 3 section 238",
+        "dataStreamCategory": "Met"
+    }
+}

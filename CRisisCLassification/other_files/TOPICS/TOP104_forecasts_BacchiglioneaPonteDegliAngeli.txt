@@ -1,0 +1,564 @@
+{
+    "header": {
+        "recipients": "",
+        "topicMinorVersion": "1",
+        "scope": "Public",
+        "topicMajorVersion": "0",
+        "sentUTC": "2018/02/07 12:52:12",
+        "note": "Threshold_1=29.8, Threshold_2=31.4, Threshold_3=32.2",
+        "sender": "CRCL",
+        "actionType": "Update",
+        "references": "",
+        "code": 20190617001,
+        "district": "Bacchiglione a Ponte Degli Angeli",
+        "specificSender": "",
+        "topicName": "TOP104_METRIC_REPORT",
+        "status": "Actual",
+        "msgIdentifier": "5433dfde68"
+    },
+    "body": {
+        "position": {
+            "longitude": 45.550332498,
+            "latitude": 11.550455402
+        },
+        "language": "it-IT",
+        "dataStreamID": 708,
+        "dataStreamDescription": "forecast and 1103",
+        "measurements": [
+            {
+                "measurementID": 23791703,
+                "measurementTimeStamp": "2018-01-26T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T08:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.687,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791704,
+                "measurementTimeStamp": "2018-01-26T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T09:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.686,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791705,
+                "measurementTimeStamp": "2018-01-26T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T10:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.685,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791706,
+                "measurementTimeStamp": "2018-01-26T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T11:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.685,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791707,
+                "measurementTimeStamp": "2018-01-26T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T12:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.684,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791708,
+                "measurementTimeStamp": "2018-01-26T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T13:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.683,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791709,
+                "measurementTimeStamp": "2018-01-26T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T14:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.683,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791710,
+                "measurementTimeStamp": "2018-01-26T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T15:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.682,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791711,
+                "measurementTimeStamp": "2018-01-26T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T16:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.682,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791712,
+                "measurementTimeStamp": "2018-01-26T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T17:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.681,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791713,
+                "measurementTimeStamp": "2018-01-26T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T18:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.681,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791714,
+                "measurementTimeStamp": "2018-01-26T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T19:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.68,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791715,
+                "measurementTimeStamp": "2018-01-26T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T20:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.68,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791716,
+                "measurementTimeStamp": "2018-01-26T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T21:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.68,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791717,
+                "measurementTimeStamp": "2018-01-26T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T22:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.679,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791718,
+                "measurementTimeStamp": "2018-01-26T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T23:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.679,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791719,
+                "measurementTimeStamp": "2018-01-27T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T00:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.679,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791720,
+                "measurementTimeStamp": "2018-01-27T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T01:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.678,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791721,
+                "measurementTimeStamp": "2018-01-27T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T02:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.678,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791722,
+                "measurementTimeStamp": "2018-01-27T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T03:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.677,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791723,
+                "measurementTimeStamp": "2018-01-27T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T04:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.677,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791724,
+                "measurementTimeStamp": "2018-01-27T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T05:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.676,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791725,
+                "measurementTimeStamp": "2018-01-27T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T06:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.676,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791726,
+                "measurementTimeStamp": "2018-01-27T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T07:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.675,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791727,
+                "measurementTimeStamp": "2018-01-27T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T08:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.675,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791728,
+                "measurementTimeStamp": "2018-01-27T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T09:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.675,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791729,
+                "measurementTimeStamp": "2018-01-27T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T10:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.674,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791730,
+                "measurementTimeStamp": "2018-01-27T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T11:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.674,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791731,
+                "measurementTimeStamp": "2018-01-27T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T12:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.674,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791732,
+                "measurementTimeStamp": "2018-01-27T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T13:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.673,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791733,
+                "measurementTimeStamp": "2018-01-27T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T14:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.673,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791734,
+                "measurementTimeStamp": "2018-01-27T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T15:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.672,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791735,
+                "measurementTimeStamp": "2018-01-27T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T16:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.672,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791736,
+                "measurementTimeStamp": "2018-01-27T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T17:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.672,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791737,
+                "measurementTimeStamp": "2018-01-27T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T18:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.671,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791738,
+                "measurementTimeStamp": "2018-01-27T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T19:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.671,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791739,
+                "measurementTimeStamp": "2018-01-27T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T20:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.671,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791740,
+                "measurementTimeStamp": "2018-01-27T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T21:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.67,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791741,
+                "measurementTimeStamp": "2018-01-27T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T22:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.67,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791742,
+                "measurementTimeStamp": "2018-01-27T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T23:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.67,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791743,
+                "measurementTimeStamp": "2018-01-28T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T00:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.669,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791744,
+                "measurementTimeStamp": "2018-01-28T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T01:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.669,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791745,
+                "measurementTimeStamp": "2018-01-28T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T02:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.669,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791746,
+                "measurementTimeStamp": "2018-01-28T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T03:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.668,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791747,
+                "measurementTimeStamp": "2018-01-28T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T04:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.668,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791748,
+                "measurementTimeStamp": "2018-01-28T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T05:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.667,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791749,
+                "measurementTimeStamp": "2018-01-28T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T06:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.667,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791750,
+                "measurementTimeStamp": "2018-01-28T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T07:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.666,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791751,
+                "measurementTimeStamp": "2018-01-28T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T08:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.666,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791752,
+                "measurementTimeStamp": "2018-01-28T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T09:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.666,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791753,
+                "measurementTimeStamp": "2018-01-28T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T10:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.665,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791754,
+                "measurementTimeStamp": "2018-01-28T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T11:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.665,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23791755,
+                "measurementTimeStamp": "2018-01-28T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T12:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Ponte Degli Angeli",
+                "yValue": 27.664,
+                "color": "#00FF00"
+            }
+        ],
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamName": "Water level forecast river 6 section 495",
+        "dataStreamCategory": "Met"
+    }
+}

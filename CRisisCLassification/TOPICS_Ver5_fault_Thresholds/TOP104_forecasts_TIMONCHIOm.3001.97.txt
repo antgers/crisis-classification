@@ -1,0 +1,44 @@
+{
+    "header": {
+        "sender": "CRCL",
+        "msgIdentifier": "20180227T145104MS354886",
+        "scope": "Public",
+        "topicMinorVersion": "1",
+        "recipients": "",
+        "sentUTC": "2018-02-27T14:51:04Z",
+        "code": 20190617001,
+        "status": "Actual",
+        "topicMajorVersion": "0",
+        "topicName": "TOP104_METRIC_REPORT",
+        "district": "Vicenza",
+        "specificSender": "",
+        "references": "",
+        "actionType": "Update",
+        "note": "Threshold_1=140, Threshold_2=145, Threshold_3=150"
+    },
+    "body": {
+        "dataStreamDescription": "AMICO predictions of water level in the last run with ID:1113",
+        "dataStreamID": 1113,
+        "dataStreamCategory": "Met",
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "position": {
+            "latitude": 45.711513372,
+            "longitude": 11.393004954
+        },
+        "language": "it-IT",
+        "dataStreamName": "River Water Level Forecast",
+        "measurements": [
+            {
+                "measurementTimeStamp": "2018-02-23T01:00:00Z",
+                "measurementID": 23983718,
+                "dataSeriesName": "TIMONCHIO m.   3001.97",
+                "note": "Water level overflow: exceeding of the 3rd alarm threshold",
+                "xValue": "",
+                "dataSeriesID": 520,
+                "color": "#FF0000",
+                "yValue": 167
+            }
+        ]
+    }
+}

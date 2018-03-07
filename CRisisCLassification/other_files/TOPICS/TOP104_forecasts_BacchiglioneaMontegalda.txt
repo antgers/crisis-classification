@@ -1,0 +1,564 @@
+{
+    "header": {
+        "recipients": "",
+        "topicMinorVersion": "1",
+        "scope": "Public",
+        "topicMajorVersion": "0",
+        "sentUTC": "2018/02/07 12:52:53",
+        "note": "Threshold_1=23.24, Threshold_2=23.74, Threshold_3=24.54",
+        "sender": "CRCL",
+        "actionType": "Update",
+        "references": "",
+        "code": 20190617001,
+        "district": "Bacchiglione a Montegalda",
+        "specificSender": "",
+        "topicName": "TOP104_METRIC_REPORT",
+        "status": "Actual",
+        "msgIdentifier": "5433dfde68"
+    },
+    "body": {
+        "position": {
+            "longitude": 45.442943505,
+            "latitude": 11.672115739
+        },
+        "language": "it-IT",
+        "dataStreamID": 732,
+        "dataStreamDescription": "forecast and 1103",
+        "measurements": [
+            {
+                "measurementID": 23781117,
+                "measurementTimeStamp": "2018-01-26T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T08:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.227,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781124,
+                "measurementTimeStamp": "2018-01-26T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T09:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.226,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781132,
+                "measurementTimeStamp": "2018-01-26T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T10:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.225,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781139,
+                "measurementTimeStamp": "2018-01-26T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T11:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.223,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781150,
+                "measurementTimeStamp": "2018-01-26T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T12:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.222,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781156,
+                "measurementTimeStamp": "2018-01-26T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T13:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.221,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781162,
+                "measurementTimeStamp": "2018-01-26T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T14:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.22,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781171,
+                "measurementTimeStamp": "2018-01-26T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T15:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.219,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781182,
+                "measurementTimeStamp": "2018-01-26T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T16:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.217,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781189,
+                "measurementTimeStamp": "2018-01-26T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T17:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.216,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781196,
+                "measurementTimeStamp": "2018-01-26T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T18:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.215,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781203,
+                "measurementTimeStamp": "2018-01-26T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T19:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.214,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781209,
+                "measurementTimeStamp": "2018-01-26T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T20:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.213,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781214,
+                "measurementTimeStamp": "2018-01-26T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T21:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.212,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781220,
+                "measurementTimeStamp": "2018-01-26T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T22:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.211,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781228,
+                "measurementTimeStamp": "2018-01-26T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T23:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.21,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781234,
+                "measurementTimeStamp": "2018-01-27T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T00:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.209,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781242,
+                "measurementTimeStamp": "2018-01-27T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T01:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.208,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781252,
+                "measurementTimeStamp": "2018-01-27T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T02:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.207,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781263,
+                "measurementTimeStamp": "2018-01-27T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T03:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.207,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781272,
+                "measurementTimeStamp": "2018-01-27T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T04:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.206,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781288,
+                "measurementTimeStamp": "2018-01-27T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T05:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.206,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781297,
+                "measurementTimeStamp": "2018-01-27T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T06:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.205,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781306,
+                "measurementTimeStamp": "2018-01-27T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T07:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.205,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781319,
+                "measurementTimeStamp": "2018-01-27T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T08:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.204,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781328,
+                "measurementTimeStamp": "2018-01-27T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T09:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.203,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781337,
+                "measurementTimeStamp": "2018-01-27T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T10:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.203,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781347,
+                "measurementTimeStamp": "2018-01-27T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T11:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.202,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781357,
+                "measurementTimeStamp": "2018-01-27T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T12:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.201,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781364,
+                "measurementTimeStamp": "2018-01-27T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T13:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.2,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781376,
+                "measurementTimeStamp": "2018-01-27T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T14:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.199,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781385,
+                "measurementTimeStamp": "2018-01-27T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T15:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.198,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781393,
+                "measurementTimeStamp": "2018-01-27T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T16:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.197,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781401,
+                "measurementTimeStamp": "2018-01-27T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T17:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.196,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781412,
+                "measurementTimeStamp": "2018-01-27T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T18:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.195,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781421,
+                "measurementTimeStamp": "2018-01-27T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T19:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.194,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781434,
+                "measurementTimeStamp": "2018-01-27T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T20:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.193,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781443,
+                "measurementTimeStamp": "2018-01-27T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T21:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.192,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781453,
+                "measurementTimeStamp": "2018-01-27T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T22:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.192,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781462,
+                "measurementTimeStamp": "2018-01-27T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T23:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.191,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781473,
+                "measurementTimeStamp": "2018-01-28T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T00:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.19,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781483,
+                "measurementTimeStamp": "2018-01-28T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T01:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.189,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781492,
+                "measurementTimeStamp": "2018-01-28T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T02:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.189,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781496,
+                "measurementTimeStamp": "2018-01-28T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T03:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.188,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781505,
+                "measurementTimeStamp": "2018-01-28T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T04:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.188,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781515,
+                "measurementTimeStamp": "2018-01-28T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T05:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.187,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781529,
+                "measurementTimeStamp": "2018-01-28T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T06:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.187,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781540,
+                "measurementTimeStamp": "2018-01-28T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T07:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.187,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781550,
+                "measurementTimeStamp": "2018-01-28T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T08:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.186,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781557,
+                "measurementTimeStamp": "2018-01-28T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T09:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.185,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781566,
+                "measurementTimeStamp": "2018-01-28T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T10:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.185,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781577,
+                "measurementTimeStamp": "2018-01-28T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T11:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.184,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23781583,
+                "measurementTimeStamp": "2018-01-28T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T12:00:00.000Z",
+                "dataSeriesName": "Bacchiglione a Montegalda",
+                "yValue": 16.183,
+                "color": "#00FF00"
+            }
+        ],
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamName": "Water level forecast river 6 section 542",
+        "dataStreamCategory": "Met"
+    }
+}

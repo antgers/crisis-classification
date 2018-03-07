@@ -1,0 +1,564 @@
+{
+    "header": {
+        "recipients": "",
+        "topicMinorVersion": "1",
+        "scope": "Public",
+        "topicMajorVersion": "0",
+        "sentUTC": "2018/02/07 12:49:54",
+        "note": "Threshold_1=31.05, Threshold_2=31.55, Threshold_3=32.35",
+        "sender": "CRCL",
+        "actionType": "Update",
+        "references": "",
+        "code": 20190617001,
+        "district": "RETRONE m.   3961.48",
+        "specificSender": "",
+        "topicName": "TOP104_METRIC_REPORT",
+        "status": "Actual",
+        "msgIdentifier": "5433dfde68"
+    },
+    "body": {
+        "position": {
+            "longitude": 45.540060526,
+            "latitude": 11.537089356
+        },
+        "language": "it-IT",
+        "dataStreamID": 612,
+        "dataStreamDescription": "forecast and 1103",
+        "measurements": [
+            {
+                "measurementID": 23768702,
+                "measurementTimeStamp": "2018-01-26T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T08:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.93,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768703,
+                "measurementTimeStamp": "2018-01-26T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T09:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.929,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768704,
+                "measurementTimeStamp": "2018-01-26T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T10:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.929,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768705,
+                "measurementTimeStamp": "2018-01-26T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T11:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.928,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768706,
+                "measurementTimeStamp": "2018-01-26T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T12:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.928,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768707,
+                "measurementTimeStamp": "2018-01-26T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T13:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.927,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768708,
+                "measurementTimeStamp": "2018-01-26T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T14:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.926,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768709,
+                "measurementTimeStamp": "2018-01-26T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T15:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.926,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768710,
+                "measurementTimeStamp": "2018-01-26T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T16:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.925,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768711,
+                "measurementTimeStamp": "2018-01-26T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T17:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.925,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768712,
+                "measurementTimeStamp": "2018-01-26T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T18:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.924,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768713,
+                "measurementTimeStamp": "2018-01-26T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T19:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.924,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768714,
+                "measurementTimeStamp": "2018-01-26T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T20:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.924,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768715,
+                "measurementTimeStamp": "2018-01-26T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T21:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.923,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768716,
+                "measurementTimeStamp": "2018-01-26T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T22:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.923,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768717,
+                "measurementTimeStamp": "2018-01-26T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T23:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.922,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768718,
+                "measurementTimeStamp": "2018-01-27T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T00:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.922,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768719,
+                "measurementTimeStamp": "2018-01-27T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T01:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.921,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768720,
+                "measurementTimeStamp": "2018-01-27T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T02:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.921,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768721,
+                "measurementTimeStamp": "2018-01-27T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T03:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.92,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768722,
+                "measurementTimeStamp": "2018-01-27T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T04:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.92,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768723,
+                "measurementTimeStamp": "2018-01-27T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T05:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.919,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768724,
+                "measurementTimeStamp": "2018-01-27T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T06:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.919,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768725,
+                "measurementTimeStamp": "2018-01-27T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T07:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.919,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768726,
+                "measurementTimeStamp": "2018-01-27T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T08:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.918,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768727,
+                "measurementTimeStamp": "2018-01-27T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T09:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.918,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768728,
+                "measurementTimeStamp": "2018-01-27T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T10:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.917,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768729,
+                "measurementTimeStamp": "2018-01-27T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T11:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.917,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768730,
+                "measurementTimeStamp": "2018-01-27T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T12:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.917,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768731,
+                "measurementTimeStamp": "2018-01-27T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T13:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.916,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768732,
+                "measurementTimeStamp": "2018-01-27T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T14:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.916,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768733,
+                "measurementTimeStamp": "2018-01-27T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T15:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.916,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768734,
+                "measurementTimeStamp": "2018-01-27T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T16:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.915,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768735,
+                "measurementTimeStamp": "2018-01-27T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T17:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.915,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768736,
+                "measurementTimeStamp": "2018-01-27T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T18:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.915,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768737,
+                "measurementTimeStamp": "2018-01-27T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T19:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.914,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768738,
+                "measurementTimeStamp": "2018-01-27T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T20:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.914,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768739,
+                "measurementTimeStamp": "2018-01-27T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T21:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.913,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768740,
+                "measurementTimeStamp": "2018-01-27T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T22:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.913,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768741,
+                "measurementTimeStamp": "2018-01-27T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T23:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.913,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768742,
+                "measurementTimeStamp": "2018-01-28T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T00:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.912,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768743,
+                "measurementTimeStamp": "2018-01-28T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T01:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.912,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768744,
+                "measurementTimeStamp": "2018-01-28T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T02:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.911,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768745,
+                "measurementTimeStamp": "2018-01-28T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T03:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.911,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768746,
+                "measurementTimeStamp": "2018-01-28T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T04:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.911,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768747,
+                "measurementTimeStamp": "2018-01-28T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T05:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.911,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768748,
+                "measurementTimeStamp": "2018-01-28T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T06:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.91,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768749,
+                "measurementTimeStamp": "2018-01-28T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T07:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.91,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768750,
+                "measurementTimeStamp": "2018-01-28T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T08:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.91,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768751,
+                "measurementTimeStamp": "2018-01-28T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T09:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.909,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768752,
+                "measurementTimeStamp": "2018-01-28T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T10:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.909,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768753,
+                "measurementTimeStamp": "2018-01-28T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T11:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.909,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23768754,
+                "measurementTimeStamp": "2018-01-28T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T12:00:00.000Z",
+                "dataSeriesName": "RETRONE m.   3961.48",
+                "yValue": 27.908,
+                "color": "#00FF00"
+            }
+        ],
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamName": "Water level forecast river 5 section 310",
+        "dataStreamCategory": "Met"
+    }
+}

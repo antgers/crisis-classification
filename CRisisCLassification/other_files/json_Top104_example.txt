@@ -1,0 +1,134 @@
+{
+    "header": {
+        "topicName": "TOP104_METRIC_REPORT",
+        "topicMajorVersion": 0,
+        "topicMinorVersion": 1,
+        "sender": "CRCL",
+        "msgIdentifier": "5443fafde2853ffdd",
+        "sentUTC": "2018-01-18T12:00:00Z",
+        "status": "Actual",
+        "actionType": "Update",
+        "specificSender": "",
+        "scope": "Public",
+        "district": "Vicenza",
+        "recipients": "",
+        "code": 20190617001,
+        "note": "",
+        "references": "http://object-store-app.eu-gb.mybluemix.net/objectStorage?file=CRCL542853.json"
+    },
+    "body": {
+        "dataStreamGenerator": "CRCL",
+        "dataStreamID": "CrisisLevelVicenza2018v1",
+        "dataStreamName": "Flood Crisis Level",
+        "dataStreamDescription": "Integrated crisis level assessment for flood scenario",
+        "language": "it-IT",
+        "dataStreamCategory": "Met",
+        "dataStreamSubCategory": "Flood",
+        "position": {
+            "latitude": 45.552475,
+            "longitude": 11.549126
+        },
+        "measurements": [
+        {
+            "measurermentID": "9876655433211",
+            "measurementTimeStamp": "2018-01-18T11:50:12Z",
+            "dataSeriesID": "1",
+            "dataSeriesName": "Piazza Araceli",
+            "xValue": "",
+            "yValue": 180,
+            "color": "#FFFF00",
+            "note": "Water Level Warning"
+        },
+        {
+            "measurermentID": "9876655433212",
+            "measurementTimeStamp": "2018-01-18T23:50:00Z",
+            "dataSeriesID": "1",
+            "dataSeriesName": "Piazza Araceli",
+            "xValue": "",
+            "yValue": 150,
+            "color": "#00FF00",
+            "note": "Water Level OK"
+        },
+        {
+            "measurermentID": "9876655433213",
+            "measurementTimeStamp": "2018-01-02T11:50:00Z",
+            "dataSeriesID": "1",
+            "dataSeriesName": "Piazza Araceli",
+            "xValue": "",
+            "yValue": 200,
+            "color": "#FFFF00",
+            "note": "Water Level Warning"
+        },
+        {
+            "measurermentID": "9876655433214",
+            "measurementTimeStamp": "2018-01-02T23:50:00Z",
+            "dataSeriesID": "1",
+            "dataSeriesName": "Piazza Araceli",
+            "xValue": "",
+            "yValue": 251.00,
+            "color": "#FF0000",
+            "note": "Water Overflow"
+        },
+        {
+            "measurermentID": "9876655433215",
+            "measurementTimeStamp": "2018-01-03T11:50:00Z",
+            "dataSeriesID": "1",
+            "dataSeriesName": "Piazza Araceli",
+            "xValue": "",
+            "yValue": 251.00,
+            "color": "#FF0000",
+            "note": "Water Overflow"
+        },
+        {
+            "measurermentID": "9876655433216",
+            "measurementTimeStamp": "2018-01-03T23:50:00Z",
+            "dataSeriesID": "1",
+            "dataSeriesName": "Piazza Araceli",
+            "xValue": "",
+            "yValue": 251.00,
+            "color": "#FF0000",
+            "note": "Water Overflow"
+        },
+        {
+            "measurermentID": "9876655433217",
+            "measurementTimeStamp": "2018-01-04T11:50:00Z",
+            "dataSeriesID": "1",
+            "dataSeriesName": "Piazza Araceli",
+            "xValue": "",
+            "yValue": 214.00,
+            "color": "#FF0000",
+            "note": "Water Level Drop"
+        },
+        {
+            "measurermentID": "9876655433218",
+            "measurementTimeStamp": "2018-01-04T23:50:00Z",
+            "dataSeriesID": "1",
+            "dataSeriesName": "Piazza Araceli",
+            "xValue": "",
+            "yValue": 164.00,
+            "color": "#FFFF00",
+            "note": "Water Overflow"
+        },
+        {
+            "measurermentID": "9876655433219",
+            "measurementTimeStamp": "2018-01-05T11:50:00Z",
+            "dataSeriesID": "1",
+            "dataSeriesName": "Piazza Araceli",
+            "xValue": "",
+            "yValue": 144.00,
+            "color": "#00FF00",
+            "note": "Water Level OK"
+        },
+        {
+            "measurermentID": "9876655433220",
+            "measurementTimeStamp": "2018-01-05T23:50:00Z",
+            "dataSeriesID": "1",
+            "dataSeriesName": "Piazza Araceli",
+            "xValue": "",
+            "yValue": 124.00,
+            "color": "#00FF00",
+            "note": "Water Level OK"
+        }
+        ]
+    }
+}

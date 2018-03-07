@@ -1,0 +1,564 @@
+{
+    "header": {
+        "recipients": "",
+        "topicMinorVersion": "1",
+        "scope": "Public",
+        "topicMajorVersion": "0",
+        "sentUTC": "2018/02/07 12:54:31",
+        "note": "Threshold_1=4.405, Threshold_2=4.905, Threshold_3=5.705",
+        "sender": "CRCL",
+        "actionType": "Update",
+        "references": "",
+        "code": 20190617001,
+        "district": "BACCHIGLIONE  m. 119141.45",
+        "specificSender": "",
+        "topicName": "TOP104_METRIC_REPORT",
+        "status": "Actual",
+        "msgIdentifier": "5433dfde68"
+    },
+    "body": {
+        "position": {
+            "longitude": 45.232862068,
+            "latitude": 12.114280076
+        },
+        "language": "it-IT",
+        "dataStreamID": 796,
+        "dataStreamDescription": "forecast and 1103",
+        "measurements": [
+            {
+                "measurementID": 23789463,
+                "measurementTimeStamp": "2018-01-26T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T08:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.718,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789464,
+                "measurementTimeStamp": "2018-01-26T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T09:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.717,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789465,
+                "measurementTimeStamp": "2018-01-26T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T10:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.717,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789466,
+                "measurementTimeStamp": "2018-01-26T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T11:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.716,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789467,
+                "measurementTimeStamp": "2018-01-26T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T12:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.716,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789468,
+                "measurementTimeStamp": "2018-01-26T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T13:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.715,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789469,
+                "measurementTimeStamp": "2018-01-26T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T14:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.715,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789470,
+                "measurementTimeStamp": "2018-01-26T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T15:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.714,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789471,
+                "measurementTimeStamp": "2018-01-26T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T16:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.714,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789472,
+                "measurementTimeStamp": "2018-01-26T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T17:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.713,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789473,
+                "measurementTimeStamp": "2018-01-26T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T18:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.712,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789474,
+                "measurementTimeStamp": "2018-01-26T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T19:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.712,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789475,
+                "measurementTimeStamp": "2018-01-26T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T20:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.711,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789476,
+                "measurementTimeStamp": "2018-01-26T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T21:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.711,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789477,
+                "measurementTimeStamp": "2018-01-26T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T22:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.71,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789478,
+                "measurementTimeStamp": "2018-01-26T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-26T23:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.71,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789479,
+                "measurementTimeStamp": "2018-01-27T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T00:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.709,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789480,
+                "measurementTimeStamp": "2018-01-27T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T01:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.708,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789481,
+                "measurementTimeStamp": "2018-01-27T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T02:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.708,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789482,
+                "measurementTimeStamp": "2018-01-27T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T03:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.707,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789483,
+                "measurementTimeStamp": "2018-01-27T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T04:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.707,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789484,
+                "measurementTimeStamp": "2018-01-27T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T05:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.706,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789485,
+                "measurementTimeStamp": "2018-01-27T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T06:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.706,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789486,
+                "measurementTimeStamp": "2018-01-27T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T07:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.705,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789487,
+                "measurementTimeStamp": "2018-01-27T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T08:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.704,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789488,
+                "measurementTimeStamp": "2018-01-27T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T09:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.704,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789489,
+                "measurementTimeStamp": "2018-01-27T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T10:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.703,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789490,
+                "measurementTimeStamp": "2018-01-27T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T11:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.703,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789491,
+                "measurementTimeStamp": "2018-01-27T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T12:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.702,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789492,
+                "measurementTimeStamp": "2018-01-27T13:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T13:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.701,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789493,
+                "measurementTimeStamp": "2018-01-27T14:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T14:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.701,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789494,
+                "measurementTimeStamp": "2018-01-27T15:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T15:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.7,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789495,
+                "measurementTimeStamp": "2018-01-27T16:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T16:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.699,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789496,
+                "measurementTimeStamp": "2018-01-27T17:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T17:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.699,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789497,
+                "measurementTimeStamp": "2018-01-27T18:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T18:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.698,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789498,
+                "measurementTimeStamp": "2018-01-27T19:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T19:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.698,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789499,
+                "measurementTimeStamp": "2018-01-27T20:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T20:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.697,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789500,
+                "measurementTimeStamp": "2018-01-27T21:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T21:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.696,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789501,
+                "measurementTimeStamp": "2018-01-27T22:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T22:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.696,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789502,
+                "measurementTimeStamp": "2018-01-27T23:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-27T23:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.695,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789503,
+                "measurementTimeStamp": "2018-01-28T00:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T00:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.694,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789504,
+                "measurementTimeStamp": "2018-01-28T01:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T01:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.694,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789505,
+                "measurementTimeStamp": "2018-01-28T02:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T02:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.693,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789506,
+                "measurementTimeStamp": "2018-01-28T03:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T03:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.693,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789507,
+                "measurementTimeStamp": "2018-01-28T04:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T04:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.692,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789508,
+                "measurementTimeStamp": "2018-01-28T05:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T05:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.691,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789509,
+                "measurementTimeStamp": "2018-01-28T06:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T06:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.691,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789510,
+                "measurementTimeStamp": "2018-01-28T07:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T07:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.69,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789511,
+                "measurementTimeStamp": "2018-01-28T08:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T08:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.69,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789512,
+                "measurementTimeStamp": "2018-01-28T09:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T09:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.689,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789513,
+                "measurementTimeStamp": "2018-01-28T10:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T10:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.689,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789514,
+                "measurementTimeStamp": "2018-01-28T11:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T11:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.688,
+                "color": "#00FF00"
+            },
+            {
+                "measurementID": 23789515,
+                "measurementTimeStamp": "2018-01-28T12:00:00.000Z",
+                "note": "Water level OK",
+                "dataSeriesID": "1",
+                "xValue": "2018-01-28T12:00:00.000Z",
+                "dataSeriesName": "BACCHIGLIONE  m. 119141.45",
+                "yValue": 0.688,
+                "color": "#00FF00"
+            }
+        ],
+        "dataStreamGenerator": "CRCL",
+        "dataStreamSubCategory": "Flood",
+        "dataStreamName": "Water level forecast river 6 section 688",
+        "dataStreamCategory": "Met"
+    }
+}
